@@ -9,6 +9,6 @@ redirect_from:
 
 THANKS FOR VISITING MY PERSONAL WEBSITE!
 
-cadmuuus's personal website
+Cadmus's personal website
 ======
 Take a look at the links above to learn more about me
